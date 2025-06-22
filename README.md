@@ -1,6 +1,6 @@
 # 🚴‍♂️ Dataline Bike Company - Power BI Capstone Project
 
-This repository contains the Power BI report developed as part of my graduation project for the Udemy course ([Link]([url](https://www.udemy.com/share/105uTi3@ZN9ZaH1nOzgyXLCcYBhhGPGK6O3qHQYEuLS-2HVTFjyQGOCrbfQc6JnLekV-KqyGew==/))). The goal was to transform raw sales and product data into meaningful business insights for **Dataline Bike Company**, a global manufacturer of bikes and accessories.
+This repository contains the Power BI report developed as part of my graduation project for the Udemy course ([Link]([url](https://www.udemy.com/share/105uTi3@ZN9ZaH1nOzgyXLCcYBhhGPGK6O3qHQYEuLS-2HVTFjyQGOCrbfQc6JnLekV-KqyGew==/))). The goal was to transform raw sales and product data into meaningful business insights for **Dataline Bike Company**, a global manufacturer of bikes and accessories. Find all project files/reports/snapshots/recordings on Google Drive Link - [here](https://drive.google.com/drive/folders/1ZPlOFFj4LS0I9Es19IfMZebNmJc6-FEM?usp=drive_link).
 
 ## Project Objective
 
